@@ -1,3 +1,5 @@
+#LISTS
+
 #Ques 1
 a=input("Enter string1: ")
 b=input("Enter string2: ")
@@ -37,3 +39,20 @@ for i in my_list:
     else:
         odd_count=odd_count+1
 print("Count of even no:",even_count,"Count of odd no:",odd_count)
+
+#TUPLES not yet covered in class
+
+#STRINGS
+
+#Ques 1
+str=input("Enter string: ")
+print("Uppercase is",str.upper())
+
+#Ques 2
+str=input("Enter string: ")
+print(str.isdigit())
+
+#Ques 3
+str="Hello World"
+str=str.replace("World","Sagar")
+print(str)
