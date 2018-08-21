@@ -20,6 +20,5 @@ fees=5000
 print('%s ''%s ''%d'%(s,course,fees))
 
 #Ques 6
-name="Tony Stark"
-salary=1000000
-print('%s ''%d'%(name,salary))
+r=int(input("Enter radius: "))
+print("Area of circle is",3.14*r*r)
