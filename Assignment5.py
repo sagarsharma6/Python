@@ -89,8 +89,8 @@ print(' '.join(l))
 
 #Ques 2
 
-##while(1):
-  ##  print("This will print infinite times")
+while(1):
+    print("This will print infinite times")
 
 
 #Ques 3
