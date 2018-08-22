@@ -44,10 +44,7 @@ elif(second>third):
         print("Person 1 with age",first,"is youngest")
 else:
     print("Person 3 with age",third,"is oldest")
-    if(first>second):
-        print("Person 2 with age",second,"is youngest")
-    else:
-        print("Person 1 with age",first,"is youngest")
+    print("Person 1 with age",first,"is youngest")
 
 
 #Ques 4
